@@ -1,0 +1,32 @@
+[
+	{
+		"nombre" : "Yeini",
+		"correo" : "yeini@gmail.com",
+		"edad"   : "30"
+	},
+
+	{
+		"nombre" : "Melisa",
+		"correo" : "melisa@gmail.com",
+		"edad"   : "25"
+	},
+
+	{
+		"nombre" : "Sheyla Acuña",
+		"correo" : "sheyla@gmail.com",
+		"edad"   : "23"
+	},
+
+	{
+		"nombre" : "Evelyn",
+		"correo" : "evelyn@gmail.com",
+		"edad"   : "23"
+	},
+
+	{
+	"nombre" : "Andrea",
+	"correo" : "andre@gmail.com",
+	"edad"   : "20"
+	}
+
+]

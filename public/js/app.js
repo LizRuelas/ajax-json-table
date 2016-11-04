@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	$.ajax({
-		url : "http://localhost:3002/demo.json",
+		url : window.location.href + "/demo.json",
 		type : "GET",
 		success : function(response){
 			var nombre = "<ul>";
